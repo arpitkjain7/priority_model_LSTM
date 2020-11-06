@@ -1,0 +1,57 @@
+data,label
+INVOICE # FIPS Number: vendor_name,Right Right Right
+FIPS Number: vendor_name Total Change Orders,Right Right Right
+vendor_name Total Change Orders Invoice Date,Right Right Right
+Total Change Orders Invoice Date CAJUN Invoice No.,Right Right Right
+Invoice Date CAJUN Invoice No. Gross Amount This Invoice,Right Right Right
+CAJUN Invoice No. Gross Amount This Invoice Total Amount Due This Invoice,Right Right Right
+Gross Amount This Invoice Total Amount Due This Invoice Total Work Completed to Date,Right Right Right
+Total Amount Due This Invoice Total Work Completed to Date Routing Number:,Right Right Right
+Total Work Completed to Date Routing Number: Account Number:,Right Right Right
+Routing Number: Account Number: Total Obligated Amount:,Right Right Right
+Account Number: Total Obligated Amount: Invoice #:,Right Right Right
+Total Obligated Amount: Invoice #: Date:,Right Right Right
+Invoice #: Date: Amount:,Right Right Right
+Date: Amount: INVOICE DATE:,Right Right Right
+Amount: INVOICE DATE: 9. TOTAL LESS RETAINAGE S,Right Right Right
+INVOICE DATE: 9. TOTAL LESS RETAINAGE S 11. AMOUNT OF THIS APPLICATION $,Right Right Right
+9. TOTAL LESS RETAINAGE S 11. AMOUNT OF THIS APPLICATION $ 7. TOTAL (4 + 5 + 6) $,Right Right Right
+11. AMOUNT OF THIS APPLICATION $ 7. TOTAL (4 + 5 + 6) $ 8. LESS AMOUNT RETAINED (COLUMN I) $,Right Right Right
+7. TOTAL (4 + 5 + 6) $ 8. LESS AMOUNT RETAINED (COLUMN I) $ 1. ORIGINAL CONTRACT AMOUNT,Right Right Right
+8. LESS AMOUNT RETAINED (COLUMN I) $ 1. ORIGINAL CONTRACT AMOUNT INVOICE #,Right Right Right
+1. ORIGINAL CONTRACT AMOUNT INVOICE # DATE,Right Right Right
+INVOICE # DATE INVOICE NUMBER,Right Right Right
+DATE INVOICE NUMBER ACCOUNT NUMBER,Right Right Right
+INVOICE NUMBER ACCOUNT NUMBER AMOUNT DUE,Right Right Right
+ACCOUNT NUMBER AMOUNT DUE ACGOUNI NUMBER,Right Right Right
+AMOUNT DUE ACGOUNI NUMBER AMOUNT DDE,Right Right Right
+ACGOUNI NUMBER AMOUNT DDE START DATE,Right Right Wrong
+AMOUNT DDE START DATE AMOUNT DUBE,Right Wrong Wrong
+START DATE AMOUNT DUBE Number,Wrong Wrong Wrong
+AMOUNT DUBE Number Total Due,Wrong Wrong Wrong
+Number Total Due Amount Due by 01/05/2006,Wrong Wrong Wrong
+Total Due Amount Due by 01/05/2006 Amount Due after 01/05/2006,Wrong Wrong Wrong
+Amount Due by 01/05/2006 Amount Due after 01/05/2006 PO Number,Wrong Wrong Wrong
+Amount Due after 01/05/2006 PO Number PLEASE PAY THIS AMOUNT,Wrong Wrong Wrong
+PO Number PLEASE PAY THIS AMOUNT Lease Number,Wrong Wrong Wrong
+PLEASE PAY THIS AMOUNT Lease Number Invoice Number:,Wrong Wrong Wrong
+Lease Number Invoice Number: invoice Due Date:,Wrong Wrong Wrong
+Invoice Number: invoice Due Date: Total Due:,Wrong Wrong Wrong
+invoice Due Date: Total Due: lavoice Date:,Wrong Wrong Wrong
+Total Due: lavoice Date: Customer Number:,Wrong Wrong Wrong
+lavoice Date: Customer Number: Due Date,Wrong Wrong Wrong
+Customer Number: Due Date Due Date:,Wrong Wrong Wrong
+Due Date Due Date: Total Net Payments,Wrong Wrong Wrong
+Due Date: Total Net Payments Subtotal,Wrong Wrong Wrong
+Total Net Payments Subtotal Invoice Total,Wrong Wrong Wrong
+Subtotal Invoice Total Order Number,Wrong Wrong Wrong
+Invoice Total Order Number Customer Number,Wrong Wrong Wrong
+Order Number Customer Number Purchase Order No.,Wrong Wrong Wrong
+Customer Number Purchase Order No. TOTAL,Wrong Wrong Wrong
+Purchase Order No. TOTAL Total Invoice Amount,Wrong Wrong Wrong
+TOTAL Total Invoice Amount EMPLOYEE NUMBER,Wrong Wrong Wrong
+Total Invoice Amount EMPLOYEE NUMBER PAY THIS AMOUNT:,Wrong Wrong Wrong
+EMPLOYEE NUMBER PAY THIS AMOUNT: SUB TOTAL:,Wrong Wrong Wrong
+PAY THIS AMOUNT: SUB TOTAL: Week Ending Date,Wrong Wrong Wrong
+SUB TOTAL: Week Ending Date,Wrong Wrong
+Week Ending Date,Wrong
